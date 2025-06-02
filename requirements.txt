@@ -1,0 +1,33 @@
+# requirements.txt
+# Core Data Science
+numpy
+pandas
+scipy
+
+# Visualization & Monitoring
+matplotlib
+seaborn
+grafana-client
+evidently
+
+# ML & Optimization
+scikit-learn
+xgboost
+hyperopt
+mlflow
+
+# Jupyter & Notebook
+jupyter
+nbformat
+ipykernel
+
+#Additional
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .
