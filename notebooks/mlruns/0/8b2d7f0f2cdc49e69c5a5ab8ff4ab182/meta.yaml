@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadwisalabdullah/PycharmProjects/MLOpsZoomcamp/notebooks/mlruns/0/8b2d7f0f2cdc49e69c5a5ab8ff4ab182/artifacts
+end_time: 1750243546935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b2d7f0f2cdc49e69c5a5ab8ff4ab182
+run_name: LoanApproval-DecisionTrees
+run_uuid: 8b2d7f0f2cdc49e69c5a5ab8ff4ab182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750243544161
+status: 3
+tags: []
+user_id: muhammadwisalabdullah
